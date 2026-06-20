@@ -1,0 +1,6 @@
+{
+  "name": "The 9th Lough",
+  "description": "Interactive website and menu for Dublin's legendary local takeaway chipper, The 9th Lough.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
